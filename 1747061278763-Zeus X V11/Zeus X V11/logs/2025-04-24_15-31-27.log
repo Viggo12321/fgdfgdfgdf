@@ -1,0 +1,10 @@
+[2025-04-24 15:31:27.124] [Xeno] [trace] Xeno is maintained by Rizve. If you find any bugs please report to rizve@xeno.now
+[2025-04-24 15:31:27.124] [Xeno] [info] Version: Xeno - v1.1.85
+[2025-04-24 15:31:27.124] [Xeno] [info] Logs stored in logs/2025-04-24_15-31-27.log
+[2025-04-24 15:31:27.125] [Xeno] [debug] Client Checker thread: 0xd6fd0fc880
+[2025-04-24 15:31:27.125] [Xeno] [debug] Xeno Caching thread: 0xd6fd0fc870
+[2025-04-24 15:31:27.125] [Xeno] [debug] WebSockets Cleaner thread: 0xd6fd0fc860
+[2025-04-24 15:31:27.125] [Xeno] [debug] Xeno Server thread: 0xd6fd0fc850
+[2025-04-24 15:31:27.125] [Cache] [info] File: C:\Users\Tony\AppData\Local\Temp\XENO_CACHE.bin
+[2025-04-24 15:31:27.125] [Server] [info] Listening on http://localhost:3110
+[2025-04-24 15:31:27.125] [Cache] [info] Loaded cache: 0 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXRenderViews
